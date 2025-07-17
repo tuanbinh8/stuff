@@ -1,7 +1,7 @@
 import socket
 import threading
 
-HOST = 'stuff-production-dcc2.up.railway.app'
+HOST = '0.0.0.0'
 PORT = 64000
 
 clients = {}
