@@ -3,7 +3,7 @@ import threading
 import os
 
 HOST = '0.0.0.0'
-PORT = PORT = int(os.getenv("PORT", "64000")
+PORT = PORT = int(os.getenv("PORT", "64000"))
 
 clients = {}
 
